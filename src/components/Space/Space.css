@@ -1,0 +1,15 @@
+.space {
+    display: flex;
+    margin-bottom: 0.8rem;
+}
+
+.space__title {
+    font-size: 14px;
+    font-weight: 600;
+    margin-right: .5rem;
+}
+
+.space__discription {
+    font-size: 14px;
+    font-weight: 300;
+}
